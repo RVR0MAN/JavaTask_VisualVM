@@ -3,7 +3,7 @@
 ![image](https://user-images.githubusercontent.com/120349770/236107516-ebf24a27-338f-404e-9b0c-d49cc4119cb2.png)
 
 Область 1:    
- - Произведена загрузка 1981 класса при выполнении  System.out.println("Please open 'ru.netology.JvmExperience' in VisualVm");   
+ - Произведена загрузка 1981 класса при выполнении строки кода System.out.println("Please open 'ru.netology.JvmExperience' in VisualVm");   
 
 Область 2:
 - Произведена загрузка классов из пэкэджа io.vertx  
@@ -31,7 +31,7 @@
 ![image](https://user-images.githubusercontent.com/120349770/236119524-93234070-b514-40a6-bab5-e882563d5d6e.png)  
 
 Область 1:  
-- Выделена память под объекты, которые попали в кучу в результате выполнения  System.out.println("Please open 'ru.netology.JvmExperience' in VisualVm");  
+- Выделена память под объекты, которые попали в кучу в результате выполнения строки кода  System.out.println("Please open 'ru.netology.JvmExperience' in VisualVm");  
 
 Область 2, 6:  
 - Отрабатывает GarbageCollector, память освобождается  
